@@ -1,5 +1,9 @@
 # Check offline if your password was pwned
 
+This is a program to check offline if your password was pwned.
+It uses the password lists from <https://haveibeenpwned.com/>.
+I'm in no way affiliated with them.
+
 ## Instructions
 
   * Fetch the password lists from <https://haveibeenpwned.com/Passwords>
